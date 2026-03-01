@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIBA-WorldCup-Calendar//v1.0//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Venezuela - FIBA WC 2027 Qualifiers
+X-WR-CALDESC:Calendario de Venezuela en las Clasificatorias FIBA al Mundial 2027 (Americas)
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fiba-wcq-am-127262@fiba-worldcup-calendar
+DTSTAMP:20260301T214928Z
+DTSTART:20251128T014000Z
+DTEND:20251128T041000Z
+SUMMARY:VEN @ COL
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 1 (Home-Away)\\n\\nColombia vs Venezuela\\nScore: COL 80 - 78 VEN\\nVenue: Coliseo Evangelista Mora
+LOCATION:Coliseo Evangelista Mora\, Cali\, COL
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127260@fiba-worldcup-calendar
+DTSTAMP:20260301T214928Z
+DTSTART:20260227T220000Z
+DTEND:20260228T003000Z
+SUMMARY:VEN @ BRA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 2 (Home-Away)\\n\\nBrazil vs Venezuela\\nScore: BRA 94 - 84 VEN\\nVenue: Arena UniBH
+LOCATION:Arena UniBH\, Belo Horizonte\, BRA
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127257@fiba-worldcup-calendar
+DTSTAMP:20260301T214928Z
+DTSTART:20260302T230000Z
+DTEND:20260303T013000Z
+SUMMARY:VEN @ CHI
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 2 (Home-Away)\\n\\nChile vs Venezuela\\nVenue: Coliseo Antonio Azurmendi
+LOCATION:Coliseo Antonio Azurmendi\, Valdivia\, CHI
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127264@fiba-worldcup-calendar
+DTSTAMP:20260301T214928Z
+DTSTART:20260630T000000Z
+DTEND:20260630T023000Z
+SUMMARY:VEN vs COL
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 3 (Home-Away)\\n\\nVenezuela vs Colombia
+LOCATION:VEN
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127255@fiba-worldcup-calendar
+DTSTAMP:20260301T214928Z
+DTSTART:20260702T040000Z
+DTEND:20260702T063000Z
+SUMMARY:VEN vs BRA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 3 (Home-Away)\\n\\nVenezuela vs Brazil
+LOCATION:VEN
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127256@fiba-worldcup-calendar
+DTSTAMP:20260301T214928Z
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+SUMMARY:VEN vs CHI
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 3 (Home-Away)\\n\\nVenezuela vs Chile
+LOCATION:VEN
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+END:VCALENDAR
