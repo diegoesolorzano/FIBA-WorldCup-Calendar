@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FIBA World Cup 2027 - Americas Qualifiers Calendar</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a1a; color: #e0e0e0; min-height: 100vh; display: flex; justify-content: center; padding: 2rem; }
+    .container { max-width: 600px; width: 100%; }
+    h1 { font-size: 1.5rem; margin-bottom: 0.5rem; color: #fff; }
+    .subtitle { color: #888; margin-bottom: 2rem; }
+    .card { background: #161628; border: 1px solid #2a2a4a; border-radius: 12px; padding: 1.5rem; margin-bottom: 1rem; }
+    .card h2 { font-size: 1.1rem; margin-bottom: 0.75rem; }
+    .flag { font-size: 1.3rem; margin-right: 0.5rem; }
+    .url { background: #0d0d1a; border: 1px solid #333; border-radius: 8px; padding: 0.75rem; font-family: monospace; font-size: 0.85rem; word-break: break-all; color: #7aa2f7; margin: 0.75rem 0; cursor: pointer; }
+    .url:hover { background: #1a1a2e; }
+    .steps { list-style: none; counter-reset: steps; }
+    .steps li { counter-increment: steps; padding: 0.5rem 0; padding-left: 2rem; position: relative; }
+    .steps li::before { content: counter(steps); position: absolute; left: 0; background: #7aa2f7; color: #0a0a1a; width: 1.5rem; height: 1.5rem; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.8rem; font-weight: bold; }
+    .badge { display: inline-block; background: #1a3a1a; color: #4ade80; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.75rem; margin-left: 0.5rem; }
+    footer { text-align: center; color: #555; font-size: 0.8rem; margin-top: 2rem; }
+    a { color: #7aa2f7; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>FIBA World Cup 2027 Americas Qualifiers</h1>
+    <p class="subtitle">Calendarios .ics auto-actualizados</p>
+
+    <div class="card">
+      <h2><span class="flag">🇻🇪</span> Venezuela <span class="badge">Auto-update diario</span></h2>
+      <p>Suscribirse a este calendario:</p>
+      <div class="url" onclick="navigator.clipboard.writeText(this.textContent.trim()).then(() => this.style.borderColor='#4ade80')" title="Click para copiar">
+        https://diegoesolorzano.github.io/FIBA-WorldCup-Calendar/calendars/ven.ics
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Como suscribirse</h2>
+      <ol class="steps">
+        <li>Copia la URL del calendario arriba</li>
+        <li><strong>Google Calendar:</strong> Ajustes → Agregar calendario → Desde URL</li>
+        <li><strong>Apple Calendar:</strong> Archivo → Nueva suscripcion a calendario</li>
+        <li>Pega la URL y listo. Se actualiza automaticamente.</li>
+      </ol>
+    </div>
+
+    <footer>
+      <p>Datos de <a href="https://www.fiba.basketball/es/events/fiba-basketball-world-cup-2027-americas-qualifiers/games">fiba.basketball</a> &middot; Actualizado diariamente via GitHub Actions</p>
+    </footer>
+  </div>
+</body>
+</html>
