@@ -1,23 +1,18 @@
-/**
- * Teams to generate calendars for.
- * Add or remove entries to control which .ics files are generated.
- */
 export const TEAMS = [
-  { code: "VEN", name: "Venezuela" },
-  // Uncomment any team to generate their calendar too:
-  // { code: "COL", name: "Colombia" },
-  // { code: "BRA", name: "Brazil" },
-  // { code: "ARG", name: "Argentina" },
-  // { code: "USA", name: "USA" },
-  // { code: "CAN", name: "Canada" },
-  // { code: "MEX", name: "Mexico" },
-  // { code: "DOM", name: "Dominican Republic" },
-  // { code: "PUR", name: "Puerto Rico" },
-  // { code: "CHI", name: "Chile" },
-  // { code: "URU", name: "Uruguay" },
-  // { code: "CUB", name: "Cuba" },
-  // { code: "PAN", name: "Panama" },
-  // { code: "JAM", name: "Jamaica" },
-  // { code: "BAH", name: "Bahamas" },
-  // { code: "NCA", name: "Nicaragua" },
+  { code: "ARG", name: "Argentina", flag: "\ud83c\udde6\ud83c\uddf7" },
+  { code: "BAH", name: "Bahamas", flag: "\ud83c\udde7\ud83c\uddf8" },
+  { code: "BRA", name: "Brazil", flag: "\ud83c\udde7\ud83c\uddf7" },
+  { code: "CAN", name: "Canada", flag: "\ud83c\udde8\ud83c\udde6" },
+  { code: "CHI", name: "Chile", flag: "\ud83c\udde8\ud83c\uddf1" },
+  { code: "COL", name: "Colombia", flag: "\ud83c\udde8\ud83c\uddf4" },
+  { code: "CUB", name: "Cuba", flag: "\ud83c\udde8\ud83c\uddfa" },
+  { code: "DOM", name: "Dominican Republic", flag: "\ud83c\udde9\ud83c\uddf4" },
+  { code: "JAM", name: "Jamaica", flag: "\ud83c\uddef\ud83c\uddf2" },
+  { code: "MEX", name: "Mexico", flag: "\ud83c\uddf2\ud83c\uddfd" },
+  { code: "NCA", name: "Nicaragua", flag: "\ud83c\uddf3\ud83c\uddee" },
+  { code: "PAN", name: "Panama", flag: "\ud83c\uddf5\ud83c\udde6" },
+  { code: "PUR", name: "Puerto Rico", flag: "\ud83c\uddf5\ud83c\uddf7" },
+  { code: "URU", name: "Uruguay", flag: "\ud83c\uddfa\ud83c\uddfe" },
+  { code: "USA", name: "USA", flag: "\ud83c\uddfa\ud83c\uddf8" },
+  { code: "VEN", name: "Venezuela", flag: "\ud83c\uddfb\ud83c\uddea" },
 ];

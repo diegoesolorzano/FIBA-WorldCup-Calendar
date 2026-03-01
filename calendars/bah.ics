@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIBA-WorldCup-Calendar//v1.0//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bahamas - FIBA WC 2027 Qualifiers
+X-WR-CALDESC:Calendario de Bahamas en las Clasificatorias FIBA al Mundial 2027 (Americas)
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fiba-wcq-am-127250@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20251129T014000Z
+DTEND:20251129T041000Z
+SUMMARY:BAH vs CAN
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 1 (Home-Away)\\n\\nBahamas vs Canada\\nScore: BAH 75 - 111 CAN\\nVenue: Sir Kendal Isaacs Gymnasium
+LOCATION:Sir Kendal Isaacs Gymnasium\, Nassau\, BAH
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127252@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20251202T001000Z
+DTEND:20251202T024000Z
+SUMMARY:BAH @ CAN
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 1 (Home-Away)\\n\\nCanada vs Bahamas\\nScore: CAN 94 - 88 BAH\\nVenue: Mattamy Athletic Centre
+LOCATION:Mattamy Athletic Centre\, Toronto\, CAN
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127247@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20260226T231000Z
+DTEND:20260227T014000Z
+SUMMARY:BAH @ JAM
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 2 (Home-Away)\\n\\nJamaica vs Bahamas\\nScore: JAM 96 - 99 BAH\\nVenue: National Indoor Sports Centre
+LOCATION:National Indoor Sports Centre\, Kingston\, JAM
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127246@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20260301T220000Z
+DTEND:20260302T003000Z
+SUMMARY:BAH @ PUR
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 2 (Home-Away)\\n\\nPuerto Rico vs Bahamas\\nVenue: Coliseo Roberto Clemente
+LOCATION:Coliseo Roberto Clemente\, San Juan\, PUR
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127242@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20260703T040000Z
+DTEND:20260703T063000Z
+SUMMARY:BAH vs JAM
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 3 (Home-Away)\\n\\nBahamas vs Jamaica
+LOCATION:BAH
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127241@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+SUMMARY:BAH vs PUR
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 3 (Home-Away)\\n\\nBahamas vs Puerto Rico
+LOCATION:BAH
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+END:VCALENDAR

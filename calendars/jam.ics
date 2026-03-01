@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FIBA-WorldCup-Calendar//v1.0//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jamaica - FIBA WC 2027 Qualifiers
+X-WR-CALDESC:Calendario de Jamaica en las Clasificatorias FIBA al Mundial 2027 (Americas)
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fiba-wcq-am-127251@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20251128T231000Z
+DTEND:20251129T014000Z
+SUMMARY:JAM vs PUR
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 1 (Home-Away)\\n\\nJamaica vs Puerto Rico\\nScore: JAM 92 - 90 PUR\\nVenue: Coliseo Roberto Clemente
+LOCATION:Coliseo Roberto Clemente\, San Juan\, PUR
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127243@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20251202T001000Z
+DTEND:20251202T024000Z
+SUMMARY:JAM @ PUR
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 1 (Home-Away)\\n\\nPuerto Rico vs Jamaica\\nScore: PUR 92 - 97 JAM\\nVenue: Coliseo Roberto Clemente
+LOCATION:Coliseo Roberto Clemente\, San Juan\, PUR
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127247@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20260226T231000Z
+DTEND:20260227T014000Z
+SUMMARY:JAM vs BAH
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 2 (Home-Away)\\n\\nJamaica vs Bahamas\\nScore: JAM 96 - 99 BAH\\nVenue: National Indoor Sports Centre
+LOCATION:National Indoor Sports Centre\, Kingston\, JAM
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127245@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20260301T230000Z
+DTEND:20260302T013000Z
+SUMMARY:JAM vs CAN
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 2 (Home-Away)\\n\\nJamaica vs Canada\\nVenue: National Indoor Sports Centre
+LOCATION:National Indoor Sports Centre\, Kingston\, JAM
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127242@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20260703T040000Z
+DTEND:20260703T063000Z
+SUMMARY:JAM @ BAH
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 3 (Home-Away)\\n\\nBahamas vs Jamaica
+LOCATION:BAH
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127249@fiba-worldcup-calendar
+DTSTAMP:20260301T215806Z
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+SUMMARY:JAM @ CAN
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup B - 1st Round\\nWindow 3 (Home-Away)\\n\\nCanada vs Jamaica
+LOCATION:CAN
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+END:VCALENDAR
