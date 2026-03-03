@@ -7,5 +7,70 @@ X-WR-CALNAME:Uruguay - FIBA WC 2027 Qualifiers
 X-WR-CALDESC:Calendario de Uruguay en las Clasificatorias FIBA al Mundial 2027 (Americas)
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-
+BEGIN:VEVENT
+UID:fiba-wcq-am-127269@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20251128T014000Z
+DTEND:20251128T041000Z
+SUMMARY:URU @ PAN
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup D - 1st Round\\nWindow 1 (Home-Away)\\n\\nPanama vs Uruguay\\nScore: PAN 60 - 93 URU\\nVenue: Arena Roberto Durán
+LOCATION:Arena Roberto Durán\, Panama City\, PAN
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127266@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20251201T004000Z
+DTEND:20251201T031000Z
+SUMMARY:URU vs PAN
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup D - 1st Round\\nWindow 1 (Home-Away)\\n\\nUruguay vs Panama\\nScore: URU 84 - 82 PAN\\nVenue: Antel Arena
+LOCATION:Antel Arena\, Montevideo\, URU
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127272@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260228T003000Z
+DTEND:20260228T030000Z
+SUMMARY:URU @ ARG
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup D - 1st Round\\nWindow 2 (Home-Away)\\n\\nArgentina vs Uruguay\\nScore: ARG 44 - 61 URU\\nVenue: Estadio Obras Sanitarias
+LOCATION:Estadio Obras Sanitarias\, Buenos Aires\, ARG
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127273@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260303T000000Z
+DTEND:20260303T023000Z
+SUMMARY:URU @ CUB
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup D - 1st Round\\nWindow 2 (Home-Away)\\n\\nCuba vs Uruguay\\nScore: CUB 62 - 88 URU\\nVenue: Arena Roberto Durán
+LOCATION:Arena Roberto Durán\, Panama City\, PAN
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127274@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260702T030000Z
+DTEND:20260702T053000Z
+SUMMARY:URU vs ARG
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup D - 1st Round\\nWindow 3 (Home-Away)\\n\\nUruguay vs Argentina
+LOCATION:URU
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127267@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260705T030000Z
+DTEND:20260705T053000Z
+SUMMARY:URU vs CUB
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup D - 1st Round\\nWindow 3 (Home-Away)\\n\\nUruguay vs Cuba
+LOCATION:URU
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
 END:VCALENDAR

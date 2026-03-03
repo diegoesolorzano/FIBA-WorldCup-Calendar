@@ -7,5 +7,70 @@ X-WR-CALNAME:Nicaragua - FIBA WC 2027 Qualifiers
 X-WR-CALDESC:Calendario de Nicaragua en las Clasificatorias FIBA al Mundial 2027 (Americas)
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-
+BEGIN:VEVENT
+UID:fiba-wcq-am-127232@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20251129T011000Z
+DTEND:20251129T034000Z
+SUMMARY:NCA vs USA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 1 (Home-Away)\\n\\nNicaragua vs USA\\nScore: NCA 67 - 102 USA\\nVenue: Polideportivo Alexis Argüello
+LOCATION:Polideportivo Alexis Argüello\, Managua\, NCA
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127234@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20251202T001000Z
+DTEND:20251202T024000Z
+SUMMARY:NCA @ USA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 1 (Home-Away)\\n\\nUSA vs Nicaragua\\nScore: USA 123 - 93 NCA\\nVenue: Gateway Center Arena
+LOCATION:Gateway Center Arena\, Atlanta\, USA
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127235@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260227T011000Z
+DTEND:20260227T034000Z
+SUMMARY:NCA vs MEX
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 2 (Home-Away)\\n\\nNicaragua vs Mexico\\nScore: NCA 72 - 99 MEX\\nVenue: Polideportivo Alexis Argüello
+LOCATION:Polideportivo Alexis Argüello\, Managua\, NCA
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127237@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260302T013000Z
+DTEND:20260302T040000Z
+SUMMARY:NCA vs DOM
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 2 (Home-Away)\\n\\nNicaragua vs Dominican Republic\\nScore: NCA 61 - 86 DOM\\nVenue: Polideportivo Alexis Argüello
+LOCATION:Polideportivo Alexis Argüello\, Managua\, NCA
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127239@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260703T060000Z
+DTEND:20260703T083000Z
+SUMMARY:NCA @ MEX
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 3 (Home-Away)\\n\\nMexico vs Nicaragua
+LOCATION:MEX
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127231@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+SUMMARY:NCA @ DOM
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 3 (Home-Away)\\n\\nDominican Republic vs Nicaragua
+LOCATION:DOM
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
 END:VCALENDAR

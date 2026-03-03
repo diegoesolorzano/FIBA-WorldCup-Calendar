@@ -7,5 +7,70 @@ X-WR-CALNAME:Chile - FIBA WC 2027 Qualifiers
 X-WR-CALDESC:Calendario de Chile en las Clasificatorias FIBA al Mundial 2027 (Americas)
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-
+BEGIN:VEVENT
+UID:fiba-wcq-am-127263@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20251127T231000Z
+DTEND:20251128T014000Z
+SUMMARY:CHI vs BRA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 1 (Home-Away)\\n\\nChile vs Brazil\\nScore: CHI 66 - 82 BRA\\nVenue: Coliseo Antonio Azurmendi
+LOCATION:Coliseo Antonio Azurmendi\, Valdivia\, CHI
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127261@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20251130T221000Z
+DTEND:20251201T004000Z
+SUMMARY:CHI @ BRA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 1 (Home-Away)\\n\\nBrazil vs Chile\\nScore: BRA 78 - 62 CHI\\nVenue: Ginasio Wlamir Marques
+LOCATION:Ginasio Wlamir Marques\, Sao Paulo\, BRA
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127259@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260227T230000Z
+DTEND:20260228T013000Z
+SUMMARY:CHI vs COL
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 2 (Home-Away)\\n\\nChile vs Colombia\\nScore: CHI 78 - 86 COL\\nVenue: Coliseo Antonio Azurmendi
+LOCATION:Coliseo Antonio Azurmendi\, Valdivia\, CHI
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127257@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260302T230000Z
+DTEND:20260303T013000Z
+SUMMARY:CHI vs VEN
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 2 (Home-Away)\\n\\nChile vs Venezuela\\nScore: CHI 68 - 72 VEN\\nVenue: Coliseo Antonio Azurmendi
+LOCATION:Coliseo Antonio Azurmendi\, Valdivia\, CHI
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127254@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260703T050000Z
+DTEND:20260703T073000Z
+SUMMARY:CHI @ COL
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 3 (Home-Away)\\n\\nColombia vs Chile
+LOCATION:COL
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127256@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+SUMMARY:CHI @ VEN
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup C - 1st Round\\nWindow 3 (Home-Away)\\n\\nVenezuela vs Chile
+LOCATION:VEN
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
 END:VCALENDAR

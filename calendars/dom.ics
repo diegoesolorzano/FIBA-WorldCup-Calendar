@@ -7,5 +7,70 @@ X-WR-CALNAME:Dominican Republic - FIBA WC 2027 Qualifiers
 X-WR-CALDESC:Calendario de Dominican Republic en las Clasificatorias FIBA al Mundial 2027 (Americas)
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-
+BEGIN:VEVENT
+UID:fiba-wcq-am-127233@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20251129T024000Z
+DTEND:20251129T051000Z
+SUMMARY:DOM @ MEX
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 1 (Home-Away)\\n\\nMexico vs Dominican Republic\\nScore: MEX 85 - 92 DOM\\nVenue: Gimnasio Marcelino Gonzalez
+LOCATION:Gimnasio Marcelino Gonzalez\, Zacatecas City\, MEX
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127230@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20251202T001000Z
+DTEND:20251202T024000Z
+SUMMARY:DOM vs MEX
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 1 (Home-Away)\\n\\nDominican Republic vs Mexico\\nScore: DOM 88 - 89 MEX\\nVenue: Pabellón Ricardo Gioriber Arias
+LOCATION:Pabellón Ricardo Gioriber Arias\, Santo Domingo\, DOM
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127236@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260227T031000Z
+DTEND:20260227T054000Z
+SUMMARY:DOM @ USA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 2 (Home-Away)\\n\\nUSA vs Dominican Republic\\nScore: USA 79 - 87 DOM\\nVenue: Frontwave Arena
+LOCATION:Frontwave Arena\, Oceanside\, USA
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127237@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260302T013000Z
+DTEND:20260302T040000Z
+SUMMARY:DOM @ NCA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 2 (Home-Away)\\n\\nNicaragua vs Dominican Republic\\nScore: NCA 61 - 86 DOM\\nVenue: Polideportivo Alexis Argüello
+LOCATION:Polideportivo Alexis Argüello\, Managua\, NCA
+STATUS:CONFIRMED
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127238@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260703T040000Z
+DTEND:20260703T063000Z
+SUMMARY:DOM vs USA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 3 (Home-Away)\\n\\nDominican Republic vs USA
+LOCATION:DOM
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-wcq-am-127231@fiba-worldcup-calendar
+DTSTAMP:20260303T085239Z
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+SUMMARY:DOM vs NCA
+DESCRIPTION:FIBA Basketball World Cup 2027 Americas Qualifiers\\nGroup A - 1st Round\\nWindow 3 (Home-Away)\\n\\nDominican Republic vs Nicaragua
+LOCATION:DOM
+STATUS:TENTATIVE
+CATEGORIES:Basketball,FIBA,World Cup Qualifiers
+END:VEVENT
 END:VCALENDAR
