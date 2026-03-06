@@ -69,6 +69,11 @@ function buildEvent(game, teamCode) {
     location ? `LOCATION:${escapeICS(location)}` : null,
     `STATUS:${status}`,
     `CATEGORIES:Basketball,FIBA,World Cup Qualifiers`,
+    "BEGIN:VALARM",
+    "TRIGGER:-PT30M",
+    "ACTION:DISPLAY",
+    `DESCRIPTION:${escapeICS(summary)} starts in 30 minutes`,
+    "END:VALARM",
     "END:VEVENT",
   ]
     .filter(Boolean)
