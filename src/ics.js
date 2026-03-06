@@ -13,7 +13,7 @@ export function generateICS(games, teamCode, teamName) {
     "PRODID:-//FIBA-WorldCup-Calendar//v1.0//ES",
     "CALSCALE:GREGORIAN",
     "METHOD:PUBLISH",
-    `X-WR-CALNAME:${teamName} - FIBA WC 2027 Qualifiers`,
+    `X-WR-CALNAME:FIBA WC 2027 Qualifiers - ${teamName}`,
     `X-WR-CALDESC:Calendario de ${teamName} en las Clasificatorias FIBA al Mundial 2027 (Americas)`,
     "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
     "X-PUBLISHED-TTL:PT12H",
